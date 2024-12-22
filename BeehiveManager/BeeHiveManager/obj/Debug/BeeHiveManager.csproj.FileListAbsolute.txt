@@ -1,0 +1,12 @@
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\bin\Debug\BeeHiveManager.exe.config
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\bin\Debug\BeeHiveManager.exe
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\bin\Debug\BeeHiveManager.pdb
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.csprojResolveAssemblyReference.cache
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.Form1.resources
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.Properties.Resources.resources
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.csproj.GenerateResource.Cache
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.exe
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\BeeHiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.pdb
+E:\HOC\pttkhttt\pttkhttt\BeehiveManager\BeeHiveManager\bin\Debug\BeeHiveManager.exe.config
+E:\HOC\pttkhttt\pttkhttt\BeehiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.exe
+E:\HOC\pttkhttt\pttkhttt\BeehiveManager\BeeHiveManager\obj\Debug\BeeHiveManager.pdb
